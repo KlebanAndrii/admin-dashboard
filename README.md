@@ -1,5 +1,7 @@
 👉  Click here - [admin-dashboard](https://admin-dashboard-posts.netlify.app/)
 
+## A modern admin dashboard built with Next.js, Tailwind CSS, and TypeScript, featuring Zod for data validation, Lucide-react icons, and reusable UI components like Avatar, Card, and DropdownMenu. The project includes responsive Recharts line charts, a clean code structure, light and dark theme support, and intuitive navigation with dropdown menus and analytic cards for an efficient user experience.
+
 
 # Admin Dashboard is a modern admin interface built with Next.js, Tailwind CSS, and TypeScript.
 The project utilizes:
